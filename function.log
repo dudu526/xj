@@ -1,10 +1,10 @@
-2024-12-04 15:39:38,531 - INFO - url: https://raw.githubusercontent.com/xiongjian83/iptv/main/speedtest/zubo.txt 获取成功，判断为txt格式
-2024-12-04 15:39:38,547 - INFO - url: https://raw.githubusercontent.com/xiongjian83/iptv/main/speedtest/zubo.txt 爬取成功✅，包含频道分类: 📡  上海频道, 📡  北京频道, 📡  江西频道, 📡  湖南频道, 湘西公共, 📡  四川频道, 📡  重庆频道, 黑龙江卫视, 📡  湖北频道, 📡  福建频道, 📡  安徽频道, 📡  陕西频道, 📡  天津联通, 📡  河南频道, 📡  山西频道, 📡  广西频道, 📡  河北频道, 📡  甘肃频道
-2024-12-04 15:39:38,564 - INFO - url: https://raw.githubusercontent.com/xiongjian83/iptv/main/speedtest/zubo_fofa.txt 获取成功，判断为txt格式
-2024-12-04 15:39:38,580 - INFO - url: https://raw.githubusercontent.com/xiongjian83/iptv/main/speedtest/zubo_fofa.txt 爬取成功✅，包含频道分类: 📡  上海频道, 📡  江西频道, 📡  江苏频道, 📡  北京联通, 📡  湖南频道, 湘西公共, 📡  浙江频道, 📡  湖北频道, 📡  福建频道, 📡  重庆频道, 黑龙江卫视, 📡  天津频道, 📡  河南频道, 📡  山西频道, 📡  广西频道, 📡  河北频道, 📡  陕西频道
-2024-12-04 15:39:38,594 - INFO - url: https://raw.githubusercontent.com/xiongjian83/zubo/main/speedtest/zubo.txt 获取成功，判断为txt格式
-2024-12-04 15:39:38,610 - INFO - url: https://raw.githubusercontent.com/xiongjian83/zubo/main/speedtest/zubo.txt 爬取成功✅，包含频道分类: 📡  上海频道, 📡  北京频道, 📡  江西频道, 📡  湖南频道, 湘西公共, 📡  四川频道, 📡  重庆频道, 📡  浙江频道, 📡  湖北频道, 📡  福建频道, 📡  安徽频道, 📡  陕西频道, 📡  天津联通, 📡  河南频道, 📡  山西频道, 📡  广西频道, 📡  河北频道, 📡  甘肃频道
-2024-12-04 15:39:38,625 - INFO - url: https://raw.githubusercontent.com/xiongjian83/zubo/main/speedtest/zubo_fofa.txt 获取成功，判断为txt格式
-2024-12-04 15:39:38,642 - INFO - url: https://raw.githubusercontent.com/xiongjian83/zubo/main/speedtest/zubo_fofa.txt 爬取成功✅，包含频道分类: 📡  上海频道, 📡  江西频道, 📡  江苏频道, 📡  北京联通, 📡  湖南频道, 湘西公共, 📡  浙江频道, 📡  湖北频道, 📡  福建频道, 📡  重庆频道, 📡  广东频道, 📡  天津频道, 📡  河南频道, 📡  山西频道, 📡  广西频道, 📡  河北频道, 📡  陕西频道
-2024-12-04 15:39:38,655 - INFO - url: https://raw.githubusercontent.com/xiongjian83/iptv/main/xj.txt 获取成功，判断为txt格式
-2024-12-04 15:39:38,659 - INFO - url: https://raw.githubusercontent.com/xiongjian83/iptv/main/xj.txt 爬取成功✅，包含频道分类: 📡  江西频道, 📡  江苏频道, 📡  福建频道, 📡  河南频道, 🇨🇳咪咕直播, 🇨🇳虎牙直播, 🇨🇳斗鱼直播, 🇨🇳电视剧轮播, 🇨🇳 YY频道, 🇨🇳埋堆堆（港剧）, 🇨🇳 NewTV, 📡  香港频道p2p, 📡  台湾频道p2p, 📡  新闻频道p2p, 📡  电影频道p2p, 📡  戏剧频道p2p
+2024-12-04 21:45:01,620 - INFO - url: https://raw.githubusercontent.com/xiongjian83/iptv/main/speedtest/zubo.txt 获取成功，判断为txt格式
+2024-12-04 21:45:01,636 - INFO - url: https://raw.githubusercontent.com/xiongjian83/iptv/main/speedtest/zubo.txt 爬取成功✅，包含频道分类: 📡  上海频道, 📡  北京频道, 📡  江西频道, 📡  湖南频道, 湘西公共, 📡  四川频道, 📡  重庆频道, 黑龙江卫视, 📡  湖北频道, 📡  福建频道, 📡  安徽频道, 📡  陕西频道, 📡  天津联通, 📡  河南频道, 📡  山西频道, 📡  广西频道, 📡  河北频道, 📡  甘肃频道
+2024-12-04 21:45:01,652 - INFO - url: https://raw.githubusercontent.com/xiongjian83/iptv/main/speedtest/zubo_fofa.txt 获取成功，判断为txt格式
+2024-12-04 21:45:01,668 - INFO - url: https://raw.githubusercontent.com/xiongjian83/iptv/main/speedtest/zubo_fofa.txt 爬取成功✅，包含频道分类: 📡  上海频道, 📡  江西频道, 📡  江苏频道, 📡  北京联通, 📡  湖南频道, 湘西公共, 📡  浙江频道, 📡  湖北频道, 📡  福建频道, 📡  重庆频道, 黑龙江卫视, 📡  天津频道, 📡  河南频道, 📡  山西频道, 📡  广西频道, 📡  河北频道, 📡  陕西频道
+2024-12-04 21:45:01,682 - INFO - url: https://raw.githubusercontent.com/xiongjian83/zubo/main/speedtest/zubo.txt 获取成功，判断为txt格式
+2024-12-04 21:45:01,698 - INFO - url: https://raw.githubusercontent.com/xiongjian83/zubo/main/speedtest/zubo.txt 爬取成功✅，包含频道分类: 📡  上海频道, 📡  北京频道, 📡  江西频道, 📡  湖南频道, 湘西公共, 📡  四川频道, 📡  重庆频道, 📡  浙江频道, 📡  湖北频道, 📡  福建频道, 📡  安徽频道, 📡  陕西频道, 📡  天津联通, 📡  河南频道, 📡  山西频道, 📡  广西频道, 📡  河北频道, 📡  甘肃频道
+2024-12-04 21:45:01,713 - INFO - url: https://raw.githubusercontent.com/xiongjian83/zubo/main/speedtest/zubo_fofa.txt 获取成功，判断为txt格式
+2024-12-04 21:45:01,730 - INFO - url: https://raw.githubusercontent.com/xiongjian83/zubo/main/speedtest/zubo_fofa.txt 爬取成功✅，包含频道分类: 📡  上海频道, 📡  江西频道, 📡  江苏频道, 📡  北京联通, 📡  湖南频道, 湘西公共, 📡  浙江频道, 📡  湖北频道, 📡  福建频道, 📡  重庆频道, 📡  广东频道, 📡  天津频道, 📡  河南频道, 📡  山西频道, 📡  广西频道, 📡  河北频道, 📡  陕西频道
+2024-12-04 21:45:01,743 - INFO - url: https://raw.githubusercontent.com/xiongjian83/iptv/main/xj.txt 获取成功，判断为txt格式
+2024-12-04 21:45:01,748 - INFO - url: https://raw.githubusercontent.com/xiongjian83/iptv/main/xj.txt 爬取成功✅，包含频道分类: 📡  江西频道, 📡  江苏频道, 📡  福建频道, 📡  河南频道, 🇨🇳咪咕直播, 🇨🇳虎牙直播, 🇨🇳斗鱼直播, 🇨🇳电视剧轮播, 🇨🇳 YY频道, 🇨🇳埋堆堆（港剧）, 🇨🇳 NewTV, 📡  香港频道p2p, 📡  台湾频道p2p, 📡  新闻频道p2p, 📡  电影频道p2p, 📡  戏剧频道p2p
